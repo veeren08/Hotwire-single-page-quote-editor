@@ -23,6 +23,8 @@ gem "turbo-rails", "~> 1.0"
 # Hotwire's modest JavaScript framework [https://stimulus.hotwired.dev]
 gem "stimulus-rails"
 
+gem "simple_form", "~> 5.1.0"
+
 # Bundle and process CSS [https://github.com/rails/cssbundling-rails]
 gem "cssbundling-rails"
 
