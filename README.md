@@ -1,24 +1,22 @@
-# README
+# Hotwire Single Page Quote Editor
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Single-page, reactive quote editor with only a single line of custom JavaScript for the flash message animation. You can look at the finished project on the quote editor page of this website. Go ahead! Create a quote, click on it and start adding dates and items to see what we'll build.
 
-Things you may want to cover:
+Things you may need to install:
 
-* Ruby version
+* Ruby version: 3.3.0
+* Rails version: 7
+* node 14 or above
+* yarn
 
-* System dependencies
 
-* Configuration
+## Requirements
 
-* Database creation
+To run this project, you need to have Ruby installed on your system.
 
-* Database initialization
+## Installation
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Clone the repository to your local machine: 
+```bash
+git clone https://github.com/veeren08/Hotwire-single-page-quote-editor.git
+```
